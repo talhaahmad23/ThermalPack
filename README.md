@@ -227,8 +227,7 @@ ThermalPack is an independent engineering and research project and will continue
 
 **Talha Ahmad**
 Mechanical & Automotive Engineer
+
 M.Sc. Automotive Engineering, RWTH Aachen University
 
 Battery Thermal Management · CFD · Reduced-Order Modelling · MATLAB/Simulink · Multiphysics Simulation
-
-Project portfolio available through the author's LinkedIn/profile.
