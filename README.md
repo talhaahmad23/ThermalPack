@@ -147,18 +147,23 @@ Visualize 3D Thermal Distribution
 The Version 1.0 dashboard provides:
 
 **Peak Nodal Temperature**
+
 Maximum temperature reached by any thermal node during the simulation.
 
 **Maximum Nodal ΔT**
+
 Maximum temperature spread across the nodal battery model.
 
 **Hotspot**
+
 Identification of the hottest cell and thermal node.
 
 **Safety Margin**
+
 Temperature margin relative to the defined thermal limit.
 
 **Thermal Status**
+
 Temperature-threshold-based GREEN / YELLOW / RED classification.
 
 ThermalPack also provides cell-average temperature histories and detailed nodal temperature data.
