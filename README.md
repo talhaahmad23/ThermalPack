@@ -226,6 +226,7 @@ ThermalPack is an independent engineering and research project and will continue
 ## Author
 
 **Talha Ahmad**
+
 Mechanical & Automotive Engineer
 
 M.Sc. Automotive Engineering, RWTH Aachen University
