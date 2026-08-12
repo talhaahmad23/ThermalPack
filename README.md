@@ -216,6 +216,7 @@ Longer-term development includes:
 ## Project Status
 
 **Current release:** Version 1.0
+
 **Development status:** Active
 
 ThermalPack is an independent engineering and research project and will continue to evolve as additional modelling, optimization, and validation capabilities are developed.
