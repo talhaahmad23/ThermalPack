@@ -1,0 +1,20 @@
+# ThermalPack generated working model
+Thermal_Model_v3_UI.slx
+
+# Generated Simscape Battery files
+ThermalPack_Generated/
+
+# Simulink generated files
+slprj/
+*.slxc
+
+# MATLAB temporary and autosave files
+*.asv
+*.autosave
+
+# MATLAB crash files
+matlab_crash_dump.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
