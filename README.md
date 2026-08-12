@@ -4,6 +4,8 @@
 
 ThermalPack is a physics-based reduced-order battery thermal modelling platform developed in **MATLAB, Simulink, Simscape Battery, and Simscape Thermal Liquid**.
 
+![ThermalPack Dashboard](images/dashboard.png)
+
 The project aims to provide a faster engineering workflow for investigating battery temperatures, thermal gradients, hotspots, and cooling-system performance without relying on high-fidelity CFD for every design iteration.
 
 ThermalPack is currently under active development. Version 1.0 represents the current functional release of the platform.
@@ -173,6 +175,8 @@ ThermalPack also provides cell-average temperature histories and detailed nodal 
 ## 3D Nodal Thermal Visualization
 
 Each cylindrical cell can be divided into multiple thermal segments along its height.
+
+![ThermalPack 3D Thermal Map](images/thermal-map.png)
 
 The 3D thermal map displays the calculated nodal temperatures directly on the battery geometry and allows the user to move through the simulation using a time slider or playback controls.
 
