@@ -61,8 +61,6 @@ Configure the main battery and cooling setup first. Each optimization window use
 
 All sampled cases remain in the results, including failures and unrun cases. Star markers identify recommended feasible cases. Export the displayed table as CSV, or export the full sweep package with all-case and recommended-case CSV files plus MAT data. Pump/fan power and inlet-conditioning energy are not evaluated, so recommendations describe sampled thermal performance.
 
-See the [user guide](docs/USER_GUIDE.md) for sampling rules, metric definitions, exports and MATLAB checks.
-
 ## Literature validation and benchmarking
 
 Two comparison workflows are included:
