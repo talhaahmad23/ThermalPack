@@ -98,18 +98,6 @@ Version 3.0 items are development goals. The existing temperature status and saf
 | `ThermalPackApp_v1_App.m`, `Thermal_Model_v3.slx` | Earlier Version 1.0 application and master model |
 | `docs/VERSION_1.md` | Archived Version 1.0 documentation |
 
-## Verification status
-
-Repository packaging checks confirm archive integrity and that the Version 2.0 app, master model and bundled libraries match the supplied project. MATLAB/Simulink execution was unavailable during this repository update; no new simulation results are claimed.
-
-Run the included helper checks in MATLAB without opening the UI:
-
-```matlab
-report = ThermalPack_v2_App('selftest');
-```
-
-These checks cover optimization helpers. Full model compilation, UI behavior and simulations require separate MATLAB verification.
-
 ## Author
 
 **Talha Ahmad** — Mechanical & Automotive Engineer  
