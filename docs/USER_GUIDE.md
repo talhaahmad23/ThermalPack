@@ -1,4 +1,4 @@
-# ThermalPack Version 2.0 — User Guide
+# ThermalPack Version 2.0 - User Guide
 
 ## Setup and launch
 
