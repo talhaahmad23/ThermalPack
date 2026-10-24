@@ -92,13 +92,11 @@ Version 3.0 items are development goals. The existing temperature status and saf
 
 | Path | Purpose |
 | --- | --- |
-| `ThermalPack_v2_App.m` | Current application and optimization-helper self-tests |
+| `ThermalPack_v2_App.m` | Main application for battery configuration, simulation and optimization |
 | `Thermal_Model_v5.slx` | Version 2.0 master physics model |
 | `Thermal_Pack_Libraries/` | Required project-local Simscape sources and model libraries |
 | `ThermalPackApp_v1_App.m`, `Thermal_Model_v3.slx` | Earlier Version 1.0 application and master model |
-| `docs/USER_GUIDE.md` | Current operating instructions and verification steps |
 | `docs/VERSION_1.md` | Archived Version 1.0 documentation |
-| `CHANGELOG.md` | Version summary |
 
 ## Verification status
 
