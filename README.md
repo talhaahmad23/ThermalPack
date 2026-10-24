@@ -100,7 +100,7 @@ Version 3.0 items are development goals. The existing temperature status and saf
 
 ## Author
 
-**Talha Ahmad** — Mechanical & Automotive Engineer  
+**Talha Ahmad** - Mechanical & Automotive Engineer  
 M.Sc. Automotive Engineering, RWTH Aachen University
 
 Battery Thermal Management · CFD · Reduced-Order Modelling · MATLAB/Simulink · Multiphysics Simulation
