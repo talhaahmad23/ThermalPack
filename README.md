@@ -1,6 +1,6 @@
 # ThermalPack
 
-**Configurable Battery Electro-Thermal Modelling & Optimization — Version 2.0**
+**Configurable Battery Electro-Thermal Modelling & Optimization - Version 2.0**
 
 ThermalPack is a configurable, reduced-order battery electro-thermal modelling platform developed using **MATLAB, Simulink, Simscape Battery and Simscape Thermal Liquid**. It brings battery configuration, thermal analysis, 3D visualization, literature benchmarking and automated parameter sweeps into one engineering workflow.
 
