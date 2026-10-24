@@ -98,9 +98,12 @@ Version 3.0 items are development goals. The existing temperature status and saf
 | `ThermalPackApp_v1_App.m`, `Thermal_Model_v3.slx` | Earlier Version 1.0 application and master model |
 | `docs/VERSION_1.md` | Archived Version 1.0 documentation |
 
-## Author
+## Author Information
 
-**Talha Ahmad** - Mechanical & Automotive Engineer  
+**Talha Ahmad — Author and Developer**  
 M.Sc. Automotive Engineering, RWTH Aachen University
 
 Battery Thermal Management · CFD · Reduced-Order Modelling · MATLAB/Simulink · Multiphysics Simulation
+
+**Shoaib Ali Mir — Contributor**  
+M.Sc. Automotive Engineering, FH Aachen University of Applied Sciences
