@@ -1,0 +1,36 @@
+component ThermalArrayResistance
+% ThermalPack Array Thermal Resistance
+% Element-wise thermal resistance between two equally sized
+% arrays of thermal nodes.
+
+parameters
+    N = 12; % Number of thermal nodes
+    R = {1, 'K/W'}; % Thermal resistance per node
+end
+
+for i = 1:N
+    nodes
+        A(i) = foundation.thermal.thermal; % A:left
+        B(i) = foundation.thermal.thermal; % B:right
+    end
+end
+
+for i = 1:N
+    components(ExternalAccess=none)
+        resistor(i) = foundation.thermal.elements.resistance(resistance=R);
+    end
+end
+
+for i = 1:N
+    connections
+        connect(A(i),resistor(i).A);
+        connect(resistor(i).B,B(i));
+    end
+end
+
+annotations
+    A : Side = left;
+    B : Side = right;
+end
+
+end

@@ -1,7 +1,8 @@
-# ThermalPack generated working model
+# ThermalPack generated working models
 Thermal_Model_v3_UI.slx
+Thermal_Model_v5_UI.slx
 
-# Generated Simscape Battery files
+# Generated Simscape Battery files (retain supplied Thermal_Pack_Libraries)
 ThermalPack_Generated/
 
 # Simulink generated files
